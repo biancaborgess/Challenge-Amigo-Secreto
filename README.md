@@ -26,6 +26,8 @@ Digite o nome de cada amigo no campo de entrada e clique em Adicionar (ou pressi
 Clique em Sortear amigo para sortear um participante aleatório.
 Clique em Reiniciar jogo para começar um novo sorteio.
 
-🎨 Visual
+<h1>🎨 Visual</h1>
 
 O projeto utiliza um layout colorido e amigável, com tons pastel de azul, lilás e rosa, e fontes elegantes que proporcionam uma experiência agradável para os usuários.
+
+Veja pelo Vercell: https://challenge-amigo-secreto-coac.vercel.app/
